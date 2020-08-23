@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj": {}
+    "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj": {
+    "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj",
         "projectName": "Gateway.WebApi",
-        "projectPath": "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj",
+        "projectPath": "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj",
         "packagesPath": "C:\\Users\\Somsubhra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Gateway.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Gateway.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

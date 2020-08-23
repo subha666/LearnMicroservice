@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "334PL5wUtYDEDjvrprh6Gy7rDPAKav3fNbI6TdHVP5+SyadGf2YZVg9LGGOJVlAW1a1A2Wh0GuIa1brZ2qtTFA==",
+  "dgSpecHash": "37XUyN1gNRwgq0t1jO1DHzaRe0nF1NGh3TO0BWBemrIwX0AaES+adZqLQhuDREWmA06Gxyh1Tyz4JBZRH3U8YQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Gateway.WebApi\\Gateway.WebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

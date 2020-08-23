@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Customer.Microservice\\Customer.Microservice.csproj": {}
+    "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Customer.Microservice\\Customer.Microservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Customer.Microservice\\Customer.Microservice.csproj": {
+    "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Customer.Microservice\\Customer.Microservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Customer.Microservice\\Customer.Microservice.csproj",
+        "projectUniqueName": "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Customer.Microservice\\Customer.Microservice.csproj",
         "projectName": "Customer.Microservice",
-        "projectPath": "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Customer.Microservice\\Customer.Microservice.csproj",
+        "projectPath": "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Customer.Microservice\\Customer.Microservice.csproj",
         "packagesPath": "C:\\Users\\Somsubhra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somsubhra\\source\\repos\\Microservices.WebApi\\Customer.Microservice\\obj\\",
+        "outputPath": "C:\\Users\\Somsubhra\\Source\\Repos\\subha666\\LearnMicroservice\\Microservices.WebApi\\Customer.Microservice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,40 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
