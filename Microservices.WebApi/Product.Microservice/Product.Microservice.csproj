@@ -6,6 +6,7 @@
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DocumentationFile>C:\Users\Somsubhra\Source\Repos\subha666\LearnMicroservice\Microservices.WebApi\Product.Microservice\Product.Microservice.xml</DocumentationFile>
+    <OutputPath>C:\Users\Somsubhra\source\repos\subha666\LearnMicroservice\Output\Product\</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
